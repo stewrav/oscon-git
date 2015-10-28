@@ -9,8 +9,6 @@ I'm learning git and GitHub today.
 
 lots of lines
 in
-
-my file son tar i can chage tehm
-
+my file so that I can change them
 and it's awesome.
 
