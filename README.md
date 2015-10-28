@@ -8,7 +8,6 @@ I'm learning git and GitHub today.
 * 09:00
 
 lots of lines
-in
-my file so that I can change them
+in my file so that I can change them
 and it's awesome.
 
