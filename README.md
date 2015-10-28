@@ -9,5 +9,5 @@ I'm learning git and GitHub today.
 
 lots of lines
 in my file so that I can change them
-and it's awesome.
+and it's moderately awesome.
 
